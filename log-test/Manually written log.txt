@@ -1,0 +1,21 @@
+Manually written log:
+
+Black - Yellow (correct)
+ 2         6
+ 2         4
+ 1         2
+ 2         2
+
+
+Orange - Red (correct)
+ 1        5
+ 6        5
+ 3        1
+ 1        6
+
+Blue - Green (correct)
+ 2       2
+ 6       1
+ 1       1
+ 2       2
+
